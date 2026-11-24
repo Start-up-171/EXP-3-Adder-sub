@@ -85,6 +85,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ### Output
 
+<img width="1600" height="863" alt="WhatsApp Image 2026-11-24 at 9 54 44 AM" src="https://github.com/user-attachments/assets/32e5ffd9-b98e-438f-990a-1aa52e306e91" />
 
 ### Viva-Voce Questions
 
